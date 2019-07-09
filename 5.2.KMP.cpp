@@ -1,6 +1,10 @@
 #include<iostream>
 #include<string>
 using namespace std;
+//input:
+// abaabaabeca
+// abaabe
+// 1
 
 int next[1000+5];
 
